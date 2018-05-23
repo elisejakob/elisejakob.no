@@ -5,12 +5,13 @@
 }
 
 html {
-	font-size: calc(16px + 6 * ((100vw - 320px) / 880));
+	font-size: calc(14px + 6 * ((100vw - 320px) / 880));
 }
 
 body { 
 	font-family: sans-serif;
 	line-height: 1.4;
+	letter-spacing: 0.024em;
 	margin: 0;
 }
 
@@ -21,7 +22,8 @@ body {
 }
 
 .hi { 
-	font-size: 2em;
+	font-size: 1.8em;
+	max-width: 960px;
 	margin: 0 auto 3rem;
 	font-weight: 700;
 	text-align: center;
@@ -46,19 +48,35 @@ p {
 }
 
 a {
-	text-decoration: none;
+	color: inherit;
+	transition: color .3s linear;
 }
 
 a:hover {
-	opacity: 0.5;
+	color: crimson;
 }
 
 a.netlife:hover {
 	color: #29CB7E;
 }
 
-.links a:visited {
-	opacity: 0.5;
+.cv {
+	display: flex;
+	font-size: 16px;
+}
+
+.cv div {
+	width: 33.333333%;
+	padding: 2rem;
+}
+
+.cv h2 {
+	font-size: 1em;
+	margin: 0;
+}
+
+.cv ul li {
+	display: inline;
 }
 
 .work {
@@ -103,4 +121,13 @@ footer {
 
 .social a {
 	color: black;
+}
+
+@media (max-width: 800px) {
+	.cv {
+		display: block;
+	}
+	.cv div {
+		width: 100%;
+	}
 }
