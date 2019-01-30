@@ -124,10 +124,14 @@ footer {
 }
 
 @media (max-width: 800px) {
+	.hi {
+		text-align: left;
+	}
 	.cv {
 		display: block;
 	}
 	.cv div {
 		width: 100%;
+		padding: 1.2rem 0;
 	}
 }
