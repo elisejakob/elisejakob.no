@@ -28,13 +28,13 @@
             <li>sat on the jury for <a href="https://www.gulltaggen.no/" target="_blank">Gulltaggen</a> a couple of times, </li>
             <li>made some web-based <a href="http://procrastination.elisejakob.com" target="_blank">games</a>, </li>
             <li>won an <a href="http://www.grafill.no/visuelt/vinnere/2015/digital-design/studentarbeid/" target="_blank">award</a>, </li>
-            <li>and been <a href="http://www.grafill.no/feature/intervju-visueltvinner-elise-jakobsen" target="_blank">interviewed</a> about it.</li>
+            <li>and been interviewed by <a href="http://www.grafill.no/feature/intervju-visueltvinner-elise-jakobsen" target="_blank">Grafill</a> and <a href="https://www.kode24.no/ukas-koder/jeg-har-blitt-veldig-glad-i-vue/72025574" target="_blank">Kode24</a>.</li>
           </ul>
         </div>
         <div class="links">
           <h2>Get in touch!</h2>
           <p>
-            Want to work with me? I'd love to hear about your project. Write me an <a href="mailto:hei@elisejakob.no" target="_blank">email</a> or message me over at <a href="https://instagram.com/jakobsenfrukt" target="_blank">instagram</a> :)
+            Want to work with me, book me for a speaking/teaching thing, or just have a chat? I'd love to hear from you! Write me an <a href="mailto:hei@elisejakob.no" target="_blank">email</a> or message me over at <a href="https://instagram.com/jakobsenfrukt" target="_blank">instagram</a> :)
           </p>
         </div>
         <div class="archive" style="display: none">
